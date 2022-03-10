@@ -1,2 +1,2 @@
-# PYTHON_BASIC
-This repository contain my basic code in python
+# DATA SCIENCE TRAINING
+This repository contain my learning's for DATA SCIENCE Training
